@@ -103,12 +103,19 @@ a:hover {
   width: 30%;
   float: left;
   margin-right: 30px;
+  transition: 1s;
+}
+
+.piano-img:hover {
+  transform: scale(1.3);
+  z-index:2;
 }
 
 .photographer-img {
   width: 30%;
   float: right;
   margin-left: 30px;
+  transition: 1s;
 }
 
 .photographer-img:hover {
