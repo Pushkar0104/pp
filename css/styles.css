@@ -103,7 +103,7 @@ a:hover {
   width: 30%;
   float: left;
   margin-right: 30px;
-  transition: 1s;
+  transition: 0.3s;
 }
 
 .piano-img:hover {
@@ -115,7 +115,7 @@ a:hover {
   width: 30%;
   float: right;
   margin-left: 30px;
-  transition: 1s;
+  transition: 0.3s;
 }
 
 .photographer-img:hover {
